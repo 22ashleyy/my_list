@@ -16,3 +16,6 @@ my_list.pop(-1)
 print(my_list)
 
 my_list.sort()
+
+find_index = my_list.index(30)
+print("The index of 30 is:", find_index)
